@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\projetos Jhoyan\1 Laços de Repetição - Exercício 03\bin\Debug\net8.0\1 Laços de Repetição - Exercício 03.exe
+C:\Users\User\Desktop\projetos Jhoyan\1 Laços de Repetição - Exercício 03\bin\Debug\net8.0\1 Laços de Repetição - Exercício 03.deps.json
+C:\Users\User\Desktop\projetos Jhoyan\1 Laços de Repetição - Exercício 03\bin\Debug\net8.0\1 Laços de Repetição - Exercício 03.runtimeconfig.json
+C:\Users\User\Desktop\projetos Jhoyan\1 Laços de Repetição - Exercício 03\bin\Debug\net8.0\1 Laços de Repetição - Exercício 03.dll
+C:\Users\User\Desktop\projetos Jhoyan\1 Laços de Repetição - Exercício 03\bin\Debug\net8.0\1 Laços de Repetição - Exercício 03.pdb
+C:\Users\User\Desktop\projetos Jhoyan\1 Laços de Repetição - Exercício 03\obj\Debug\net8.0\1 Laços de Repetição - Exercício 03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\projetos Jhoyan\1 Laços de Repetição - Exercício 03\obj\Debug\net8.0\1 Laços de Repetição - Exercício 03.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\projetos Jhoyan\1 Laços de Repetição - Exercício 03\obj\Debug\net8.0\1 Laços de Repetição - Exercício 03.AssemblyInfo.cs
+C:\Users\User\Desktop\projetos Jhoyan\1 Laços de Repetição - Exercício 03\obj\Debug\net8.0\1 Laços de Repetição - Exercício 03.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\projetos Jhoyan\1 Laços de Repetição - Exercício 03\obj\Debug\net8.0\1 Laços de Repetição - Exercício 03.dll
+C:\Users\User\Desktop\projetos Jhoyan\1 Laços de Repetição - Exercício 03\obj\Debug\net8.0\refint\1 Laços de Repetição - Exercício 03.dll
+C:\Users\User\Desktop\projetos Jhoyan\1 Laços de Repetição - Exercício 03\obj\Debug\net8.0\1 Laços de Repetição - Exercício 03.pdb
+C:\Users\User\Desktop\projetos Jhoyan\1 Laços de Repetição - Exercício 03\obj\Debug\net8.0\1 Laços de Repetição - Exercício 03.genruntimeconfig.cache
+C:\Users\User\Desktop\projetos Jhoyan\1 Laços de Repetição - Exercício 03\obj\Debug\net8.0\ref\1 Laços de Repetição - Exercício 03.dll
