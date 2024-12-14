@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2 Laços de Repetição - Exercício 03", "2 Laços de Repetição - Exercício 03.csproj", "{9F9BF4B3-3423-4FCE-900D-E81BD378D3C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F9BF4B3-3423-4FCE-900D-E81BD378D3C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F9BF4B3-3423-4FCE-900D-E81BD378D3C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F9BF4B3-3423-4FCE-900D-E81BD378D3C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F9BF4B3-3423-4FCE-900D-E81BD378D3C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0FF3C2D0-C3FA-4779-8639-561A101CCBFD}
+	EndGlobalSection
+EndGlobal
