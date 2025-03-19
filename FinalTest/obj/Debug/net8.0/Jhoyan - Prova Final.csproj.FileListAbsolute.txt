@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\projetos Jhoyan\Jhoyan - Prova Final\bin\Debug\net8.0\Jhoyan - Prova Final.exe
+C:\Users\User\Desktop\projetos Jhoyan\Jhoyan - Prova Final\bin\Debug\net8.0\Jhoyan - Prova Final.deps.json
+C:\Users\User\Desktop\projetos Jhoyan\Jhoyan - Prova Final\bin\Debug\net8.0\Jhoyan - Prova Final.runtimeconfig.json
+C:\Users\User\Desktop\projetos Jhoyan\Jhoyan - Prova Final\bin\Debug\net8.0\Jhoyan - Prova Final.dll
+C:\Users\User\Desktop\projetos Jhoyan\Jhoyan - Prova Final\bin\Debug\net8.0\Jhoyan - Prova Final.pdb
+C:\Users\User\Desktop\projetos Jhoyan\Jhoyan - Prova Final\obj\Debug\net8.0\Jhoyan - Prova Final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\projetos Jhoyan\Jhoyan - Prova Final\obj\Debug\net8.0\Jhoyan - Prova Final.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\projetos Jhoyan\Jhoyan - Prova Final\obj\Debug\net8.0\Jhoyan - Prova Final.AssemblyInfo.cs
+C:\Users\User\Desktop\projetos Jhoyan\Jhoyan - Prova Final\obj\Debug\net8.0\Jhoyan - Prova Final.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\projetos Jhoyan\Jhoyan - Prova Final\obj\Debug\net8.0\Jhoyan - Prova Final.dll
+C:\Users\User\Desktop\projetos Jhoyan\Jhoyan - Prova Final\obj\Debug\net8.0\refint\Jhoyan - Prova Final.dll
+C:\Users\User\Desktop\projetos Jhoyan\Jhoyan - Prova Final\obj\Debug\net8.0\Jhoyan - Prova Final.pdb
+C:\Users\User\Desktop\projetos Jhoyan\Jhoyan - Prova Final\obj\Debug\net8.0\Jhoyan - Prova Final.genruntimeconfig.cache
+C:\Users\User\Desktop\projetos Jhoyan\Jhoyan - Prova Final\obj\Debug\net8.0\ref\Jhoyan - Prova Final.dll
