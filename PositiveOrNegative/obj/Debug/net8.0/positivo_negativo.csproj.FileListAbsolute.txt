@@ -1,0 +1,28 @@
+C:\Users\2024102060010\Desktop\positivo_negativo\bin\Debug\net8.0\positivo_negativo.exe
+C:\Users\2024102060010\Desktop\positivo_negativo\bin\Debug\net8.0\positivo_negativo.deps.json
+C:\Users\2024102060010\Desktop\positivo_negativo\bin\Debug\net8.0\positivo_negativo.runtimeconfig.json
+C:\Users\2024102060010\Desktop\positivo_negativo\bin\Debug\net8.0\positivo_negativo.dll
+C:\Users\2024102060010\Desktop\positivo_negativo\bin\Debug\net8.0\positivo_negativo.pdb
+C:\Users\2024102060010\Desktop\positivo_negativo\obj\Debug\net8.0\positivo_negativo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2024102060010\Desktop\positivo_negativo\obj\Debug\net8.0\positivo_negativo.AssemblyInfoInputs.cache
+C:\Users\2024102060010\Desktop\positivo_negativo\obj\Debug\net8.0\positivo_negativo.AssemblyInfo.cs
+C:\Users\2024102060010\Desktop\positivo_negativo\obj\Debug\net8.0\positivo_negativo.csproj.CoreCompileInputs.cache
+C:\Users\2024102060010\Desktop\positivo_negativo\obj\Debug\net8.0\positivo_negativo.dll
+C:\Users\2024102060010\Desktop\positivo_negativo\obj\Debug\net8.0\refint\positivo_negativo.dll
+C:\Users\2024102060010\Desktop\positivo_negativo\obj\Debug\net8.0\positivo_negativo.pdb
+C:\Users\2024102060010\Desktop\positivo_negativo\obj\Debug\net8.0\positivo_negativo.genruntimeconfig.cache
+C:\Users\2024102060010\Desktop\positivo_negativo\obj\Debug\net8.0\ref\positivo_negativo.dll
+C:\Users\2024102060010\Desktop\projetos Jhoyan\positivo_negativo\bin\Debug\net8.0\positivo_negativo.exe
+C:\Users\2024102060010\Desktop\projetos Jhoyan\positivo_negativo\bin\Debug\net8.0\positivo_negativo.deps.json
+C:\Users\2024102060010\Desktop\projetos Jhoyan\positivo_negativo\bin\Debug\net8.0\positivo_negativo.runtimeconfig.json
+C:\Users\2024102060010\Desktop\projetos Jhoyan\positivo_negativo\bin\Debug\net8.0\positivo_negativo.dll
+C:\Users\2024102060010\Desktop\projetos Jhoyan\positivo_negativo\bin\Debug\net8.0\positivo_negativo.pdb
+C:\Users\2024102060010\Desktop\projetos Jhoyan\positivo_negativo\obj\Debug\net8.0\positivo_negativo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2024102060010\Desktop\projetos Jhoyan\positivo_negativo\obj\Debug\net8.0\positivo_negativo.AssemblyInfoInputs.cache
+C:\Users\2024102060010\Desktop\projetos Jhoyan\positivo_negativo\obj\Debug\net8.0\positivo_negativo.AssemblyInfo.cs
+C:\Users\2024102060010\Desktop\projetos Jhoyan\positivo_negativo\obj\Debug\net8.0\positivo_negativo.csproj.CoreCompileInputs.cache
+C:\Users\2024102060010\Desktop\projetos Jhoyan\positivo_negativo\obj\Debug\net8.0\positivo_negativo.dll
+C:\Users\2024102060010\Desktop\projetos Jhoyan\positivo_negativo\obj\Debug\net8.0\refint\positivo_negativo.dll
+C:\Users\2024102060010\Desktop\projetos Jhoyan\positivo_negativo\obj\Debug\net8.0\positivo_negativo.pdb
+C:\Users\2024102060010\Desktop\projetos Jhoyan\positivo_negativo\obj\Debug\net8.0\positivo_negativo.genruntimeconfig.cache
+C:\Users\2024102060010\Desktop\projetos Jhoyan\positivo_negativo\obj\Debug\net8.0\ref\positivo_negativo.dll
