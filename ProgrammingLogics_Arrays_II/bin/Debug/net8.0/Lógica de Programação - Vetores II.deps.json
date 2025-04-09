@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Lógica de Programação - Vetores II/1.0.0": {
+        "runtime": {
+          "Lógica de Programação - Vetores II.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lógica de Programação - Vetores II/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

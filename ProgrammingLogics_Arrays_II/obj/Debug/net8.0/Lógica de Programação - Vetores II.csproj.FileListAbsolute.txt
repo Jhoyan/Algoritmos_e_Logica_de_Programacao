@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\projetos Jhoyan\2º Semestre\Lógica de Programação - Vetores II\bin\Debug\net8.0\Lógica de Programação - Vetores II.exe
+C:\Users\User\Desktop\projetos Jhoyan\2º Semestre\Lógica de Programação - Vetores II\bin\Debug\net8.0\Lógica de Programação - Vetores II.deps.json
+C:\Users\User\Desktop\projetos Jhoyan\2º Semestre\Lógica de Programação - Vetores II\bin\Debug\net8.0\Lógica de Programação - Vetores II.runtimeconfig.json
+C:\Users\User\Desktop\projetos Jhoyan\2º Semestre\Lógica de Programação - Vetores II\bin\Debug\net8.0\Lógica de Programação - Vetores II.dll
+C:\Users\User\Desktop\projetos Jhoyan\2º Semestre\Lógica de Programação - Vetores II\bin\Debug\net8.0\Lógica de Programação - Vetores II.pdb
+C:\Users\User\Desktop\projetos Jhoyan\2º Semestre\Lógica de Programação - Vetores II\obj\Debug\net8.0\Lógica de Programação - Vetores II.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\projetos Jhoyan\2º Semestre\Lógica de Programação - Vetores II\obj\Debug\net8.0\Lógica de Programação - Vetores II.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\projetos Jhoyan\2º Semestre\Lógica de Programação - Vetores II\obj\Debug\net8.0\Lógica de Programação - Vetores II.AssemblyInfo.cs
+C:\Users\User\Desktop\projetos Jhoyan\2º Semestre\Lógica de Programação - Vetores II\obj\Debug\net8.0\Lógica de Programação - Vetores II.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\projetos Jhoyan\2º Semestre\Lógica de Programação - Vetores II\obj\Debug\net8.0\Lógica de Programação - Vetores II.dll
+C:\Users\User\Desktop\projetos Jhoyan\2º Semestre\Lógica de Programação - Vetores II\obj\Debug\net8.0\refint\Lógica de Programação - Vetores II.dll
+C:\Users\User\Desktop\projetos Jhoyan\2º Semestre\Lógica de Programação - Vetores II\obj\Debug\net8.0\Lógica de Programação - Vetores II.pdb
+C:\Users\User\Desktop\projetos Jhoyan\2º Semestre\Lógica de Programação - Vetores II\obj\Debug\net8.0\Lógica de Programação - Vetores II.genruntimeconfig.cache
+C:\Users\User\Desktop\projetos Jhoyan\2º Semestre\Lógica de Programação - Vetores II\obj\Debug\net8.0\ref\Lógica de Programação - Vetores II.dll
