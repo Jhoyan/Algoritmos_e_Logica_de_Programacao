@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Documentos área de trabalho\Faculdade Jhoyan\2º Semestre\Algoritmos e Lógica de Programação II\Introdução a Matrizes\bin\Debug\net8.0\Introdução a Matrizes.exe
+C:\Users\User\Desktop\Documentos área de trabalho\Faculdade Jhoyan\2º Semestre\Algoritmos e Lógica de Programação II\Introdução a Matrizes\bin\Debug\net8.0\Introdução a Matrizes.deps.json
+C:\Users\User\Desktop\Documentos área de trabalho\Faculdade Jhoyan\2º Semestre\Algoritmos e Lógica de Programação II\Introdução a Matrizes\bin\Debug\net8.0\Introdução a Matrizes.runtimeconfig.json
+C:\Users\User\Desktop\Documentos área de trabalho\Faculdade Jhoyan\2º Semestre\Algoritmos e Lógica de Programação II\Introdução a Matrizes\bin\Debug\net8.0\Introdução a Matrizes.dll
+C:\Users\User\Desktop\Documentos área de trabalho\Faculdade Jhoyan\2º Semestre\Algoritmos e Lógica de Programação II\Introdução a Matrizes\bin\Debug\net8.0\Introdução a Matrizes.pdb
+C:\Users\User\Desktop\Documentos área de trabalho\Faculdade Jhoyan\2º Semestre\Algoritmos e Lógica de Programação II\Introdução a Matrizes\obj\Debug\net8.0\Introdução a Matrizes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Documentos área de trabalho\Faculdade Jhoyan\2º Semestre\Algoritmos e Lógica de Programação II\Introdução a Matrizes\obj\Debug\net8.0\Introdução a Matrizes.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Documentos área de trabalho\Faculdade Jhoyan\2º Semestre\Algoritmos e Lógica de Programação II\Introdução a Matrizes\obj\Debug\net8.0\Introdução a Matrizes.AssemblyInfo.cs
+C:\Users\User\Desktop\Documentos área de trabalho\Faculdade Jhoyan\2º Semestre\Algoritmos e Lógica de Programação II\Introdução a Matrizes\obj\Debug\net8.0\Introdução a Matrizes.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Documentos área de trabalho\Faculdade Jhoyan\2º Semestre\Algoritmos e Lógica de Programação II\Introdução a Matrizes\obj\Debug\net8.0\Introdução a Matrizes.dll
+C:\Users\User\Desktop\Documentos área de trabalho\Faculdade Jhoyan\2º Semestre\Algoritmos e Lógica de Programação II\Introdução a Matrizes\obj\Debug\net8.0\refint\Introdução a Matrizes.dll
+C:\Users\User\Desktop\Documentos área de trabalho\Faculdade Jhoyan\2º Semestre\Algoritmos e Lógica de Programação II\Introdução a Matrizes\obj\Debug\net8.0\Introdução a Matrizes.pdb
+C:\Users\User\Desktop\Documentos área de trabalho\Faculdade Jhoyan\2º Semestre\Algoritmos e Lógica de Programação II\Introdução a Matrizes\obj\Debug\net8.0\Introdução a Matrizes.genruntimeconfig.cache
+C:\Users\User\Desktop\Documentos área de trabalho\Faculdade Jhoyan\2º Semestre\Algoritmos e Lógica de Programação II\Introdução a Matrizes\obj\Debug\net8.0\ref\Introdução a Matrizes.dll
