@@ -1,0 +1,28 @@
+C:\ADS\2° Período\Linguagem_de_Programação_Visual\Gerenciamento_Contatos\obj\Debug\net8.0\Gerenciamento_Contatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\ADS\2° Período\Linguagem_de_Programação_Visual\Gerenciamento_Contatos\obj\Debug\net8.0\Gerenciamento_Contatos.AssemblyInfoInputs.cache
+C:\ADS\2° Período\Linguagem_de_Programação_Visual\Gerenciamento_Contatos\obj\Debug\net8.0\Gerenciamento_Contatos.AssemblyInfo.cs
+C:\ADS\2° Período\Linguagem_de_Programação_Visual\Gerenciamento_Contatos\obj\Debug\net8.0\Gerenciamento_Contatos.csproj.CoreCompileInputs.cache
+C:\ADS\2° Período\Linguagem_de_Programação_Visual\Gerenciamento_Contatos\bin\Debug\net8.0\Gerenciamento_Contatos.exe
+C:\ADS\2° Período\Linguagem_de_Programação_Visual\Gerenciamento_Contatos\bin\Debug\net8.0\Gerenciamento_Contatos.deps.json
+C:\ADS\2° Período\Linguagem_de_Programação_Visual\Gerenciamento_Contatos\bin\Debug\net8.0\Gerenciamento_Contatos.runtimeconfig.json
+C:\ADS\2° Período\Linguagem_de_Programação_Visual\Gerenciamento_Contatos\bin\Debug\net8.0\Gerenciamento_Contatos.dll
+C:\ADS\2° Período\Linguagem_de_Programação_Visual\Gerenciamento_Contatos\bin\Debug\net8.0\Gerenciamento_Contatos.pdb
+C:\ADS\2° Período\Linguagem_de_Programação_Visual\Gerenciamento_Contatos\obj\Debug\net8.0\Gerenciamento_Contatos.dll
+C:\ADS\2° Período\Linguagem_de_Programação_Visual\Gerenciamento_Contatos\obj\Debug\net8.0\refint\Gerenciamento_Contatos.dll
+C:\ADS\2° Período\Linguagem_de_Programação_Visual\Gerenciamento_Contatos\obj\Debug\net8.0\Gerenciamento_Contatos.pdb
+C:\ADS\2° Período\Linguagem_de_Programação_Visual\Gerenciamento_Contatos\obj\Debug\net8.0\Gerenciamento_Contatos.genruntimeconfig.cache
+C:\ADS\2° Período\Linguagem_de_Programação_Visual\Gerenciamento_Contatos\obj\Debug\net8.0\ref\Gerenciamento_Contatos.dll
+C:\Users\User\Desktop\Documentos área de trabalho\Faculdade Jhoyan\2º Semestre\Algoritmos e Lógica de Programação II\Gerenciamento_Contatos\bin\Debug\net8.0\Gerenciamento_Contatos.exe
+C:\Users\User\Desktop\Documentos área de trabalho\Faculdade Jhoyan\2º Semestre\Algoritmos e Lógica de Programação II\Gerenciamento_Contatos\bin\Debug\net8.0\Gerenciamento_Contatos.deps.json
+C:\Users\User\Desktop\Documentos área de trabalho\Faculdade Jhoyan\2º Semestre\Algoritmos e Lógica de Programação II\Gerenciamento_Contatos\bin\Debug\net8.0\Gerenciamento_Contatos.runtimeconfig.json
+C:\Users\User\Desktop\Documentos área de trabalho\Faculdade Jhoyan\2º Semestre\Algoritmos e Lógica de Programação II\Gerenciamento_Contatos\bin\Debug\net8.0\Gerenciamento_Contatos.dll
+C:\Users\User\Desktop\Documentos área de trabalho\Faculdade Jhoyan\2º Semestre\Algoritmos e Lógica de Programação II\Gerenciamento_Contatos\bin\Debug\net8.0\Gerenciamento_Contatos.pdb
+C:\Users\User\Desktop\Documentos área de trabalho\Faculdade Jhoyan\2º Semestre\Algoritmos e Lógica de Programação II\Gerenciamento_Contatos\obj\Debug\net8.0\Gerenciamento_Contatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Documentos área de trabalho\Faculdade Jhoyan\2º Semestre\Algoritmos e Lógica de Programação II\Gerenciamento_Contatos\obj\Debug\net8.0\Gerenciamento_Contatos.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Documentos área de trabalho\Faculdade Jhoyan\2º Semestre\Algoritmos e Lógica de Programação II\Gerenciamento_Contatos\obj\Debug\net8.0\Gerenciamento_Contatos.AssemblyInfo.cs
+C:\Users\User\Desktop\Documentos área de trabalho\Faculdade Jhoyan\2º Semestre\Algoritmos e Lógica de Programação II\Gerenciamento_Contatos\obj\Debug\net8.0\Gerenciamento_Contatos.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Documentos área de trabalho\Faculdade Jhoyan\2º Semestre\Algoritmos e Lógica de Programação II\Gerenciamento_Contatos\obj\Debug\net8.0\Gerenciamento_Contatos.dll
+C:\Users\User\Desktop\Documentos área de trabalho\Faculdade Jhoyan\2º Semestre\Algoritmos e Lógica de Programação II\Gerenciamento_Contatos\obj\Debug\net8.0\refint\Gerenciamento_Contatos.dll
+C:\Users\User\Desktop\Documentos área de trabalho\Faculdade Jhoyan\2º Semestre\Algoritmos e Lógica de Programação II\Gerenciamento_Contatos\obj\Debug\net8.0\Gerenciamento_Contatos.pdb
+C:\Users\User\Desktop\Documentos área de trabalho\Faculdade Jhoyan\2º Semestre\Algoritmos e Lógica de Programação II\Gerenciamento_Contatos\obj\Debug\net8.0\Gerenciamento_Contatos.genruntimeconfig.cache
+C:\Users\User\Desktop\Documentos área de trabalho\Faculdade Jhoyan\2º Semestre\Algoritmos e Lógica de Programação II\Gerenciamento_Contatos\obj\Debug\net8.0\ref\Gerenciamento_Contatos.dll

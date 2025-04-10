@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Gerenciamento_Contatos/1.0.0": {
+        "runtime": {
+          "Gerenciamento_Contatos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Gerenciamento_Contatos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
