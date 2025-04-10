@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Documentos área de trabalho\Faculdade Jhoyan\2º Semestre\Algoritmos e Lógica de Programação II\IntroductionToLambda\bin\Debug\IntroductionToLambda.exe.config
+C:\Users\User\Desktop\Documentos área de trabalho\Faculdade Jhoyan\2º Semestre\Algoritmos e Lógica de Programação II\IntroductionToLambda\bin\Debug\IntroductionToLambda.exe
+C:\Users\User\Desktop\Documentos área de trabalho\Faculdade Jhoyan\2º Semestre\Algoritmos e Lógica de Programação II\IntroductionToLambda\bin\Debug\IntroductionToLambda.pdb
+C:\Users\User\Desktop\Documentos área de trabalho\Faculdade Jhoyan\2º Semestre\Algoritmos e Lógica de Programação II\IntroductionToLambda\obj\Debug\IntroductionToLambda.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Documentos área de trabalho\Faculdade Jhoyan\2º Semestre\Algoritmos e Lógica de Programação II\IntroductionToLambda\obj\Debug\IntroductionToLambda.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Documentos área de trabalho\Faculdade Jhoyan\2º Semestre\Algoritmos e Lógica de Programação II\IntroductionToLambda\obj\Debug\IntroductionToLambda.exe
+C:\Users\User\Desktop\Documentos área de trabalho\Faculdade Jhoyan\2º Semestre\Algoritmos e Lógica de Programação II\IntroductionToLambda\obj\Debug\IntroductionToLambda.pdb
