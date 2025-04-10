@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Atividade Avaliativa - Matrizes e Vetores/1.0.0": {
+        "runtime": {
+          "Atividade Avaliativa - Matrizes e Vetores.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Atividade Avaliativa - Matrizes e Vetores/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
