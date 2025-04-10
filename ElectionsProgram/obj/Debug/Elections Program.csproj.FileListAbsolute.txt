@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Documentos área de trabalho\Faculdade Jhoyan\2º Semestre\Algoritmos e Lógica de Programação II\Elections Program\bin\Debug\Elections Program.exe.config
+C:\Users\User\Desktop\Documentos área de trabalho\Faculdade Jhoyan\2º Semestre\Algoritmos e Lógica de Programação II\Elections Program\bin\Debug\Elections Program.exe
+C:\Users\User\Desktop\Documentos área de trabalho\Faculdade Jhoyan\2º Semestre\Algoritmos e Lógica de Programação II\Elections Program\bin\Debug\Elections Program.pdb
+C:\Users\User\Desktop\Documentos área de trabalho\Faculdade Jhoyan\2º Semestre\Algoritmos e Lógica de Programação II\Elections Program\obj\Debug\Elections Program.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Documentos área de trabalho\Faculdade Jhoyan\2º Semestre\Algoritmos e Lógica de Programação II\Elections Program\obj\Debug\Elections Program.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Documentos área de trabalho\Faculdade Jhoyan\2º Semestre\Algoritmos e Lógica de Programação II\Elections Program\obj\Debug\Elections Program.exe
+C:\Users\User\Desktop\Documentos área de trabalho\Faculdade Jhoyan\2º Semestre\Algoritmos e Lógica de Programação II\Elections Program\obj\Debug\Elections Program.pdb
+C:\Users\User\Desktop\Documentos área de trabalho\Faculdade Jhoyan\2º Período\Algoritmos e Lógica de Programação II\ElectionsProgram\bin\Debug\Elections Program.exe.config
+C:\Users\User\Desktop\Documentos área de trabalho\Faculdade Jhoyan\2º Período\Algoritmos e Lógica de Programação II\ElectionsProgram\bin\Debug\Elections Program.exe
+C:\Users\User\Desktop\Documentos área de trabalho\Faculdade Jhoyan\2º Período\Algoritmos e Lógica de Programação II\ElectionsProgram\bin\Debug\Elections Program.pdb
+C:\Users\User\Desktop\Documentos área de trabalho\Faculdade Jhoyan\2º Período\Algoritmos e Lógica de Programação II\ElectionsProgram\obj\Debug\Elections Program.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Documentos área de trabalho\Faculdade Jhoyan\2º Período\Algoritmos e Lógica de Programação II\ElectionsProgram\obj\Debug\Elections Program.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Documentos área de trabalho\Faculdade Jhoyan\2º Período\Algoritmos e Lógica de Programação II\ElectionsProgram\obj\Debug\Elections Program.exe
+C:\Users\User\Desktop\Documentos área de trabalho\Faculdade Jhoyan\2º Período\Algoritmos e Lógica de Programação II\ElectionsProgram\obj\Debug\Elections Program.pdb
