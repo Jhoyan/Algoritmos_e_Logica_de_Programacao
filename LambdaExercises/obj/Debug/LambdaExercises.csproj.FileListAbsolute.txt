@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Documentos área de trabalho\Faculdade Jhoyan\2º Semestre\Algoritmos e Lógica de Programação II\LambdaExercises\bin\Debug\LambdaExercises.exe.config
+C:\Users\User\Desktop\Documentos área de trabalho\Faculdade Jhoyan\2º Semestre\Algoritmos e Lógica de Programação II\LambdaExercises\bin\Debug\LambdaExercises.exe
+C:\Users\User\Desktop\Documentos área de trabalho\Faculdade Jhoyan\2º Semestre\Algoritmos e Lógica de Programação II\LambdaExercises\bin\Debug\LambdaExercises.pdb
+C:\Users\User\Desktop\Documentos área de trabalho\Faculdade Jhoyan\2º Semestre\Algoritmos e Lógica de Programação II\LambdaExercises\obj\Debug\LambdaExercises.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Documentos área de trabalho\Faculdade Jhoyan\2º Semestre\Algoritmos e Lógica de Programação II\LambdaExercises\obj\Debug\LambdaExercises.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Documentos área de trabalho\Faculdade Jhoyan\2º Semestre\Algoritmos e Lógica de Programação II\LambdaExercises\obj\Debug\LambdaExercises.exe
+C:\Users\User\Desktop\Documentos área de trabalho\Faculdade Jhoyan\2º Semestre\Algoritmos e Lógica de Programação II\LambdaExercises\obj\Debug\LambdaExercises.pdb
