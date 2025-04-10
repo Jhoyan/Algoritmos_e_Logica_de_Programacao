@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Documentos área de trabalho\Faculdade Jhoyan\2º Semestre\Algoritmos e Lógica de Programação II\Introdução a Listas\bin\Debug\Introdução a Listas.exe.config
+C:\Users\User\Desktop\Documentos área de trabalho\Faculdade Jhoyan\2º Semestre\Algoritmos e Lógica de Programação II\Introdução a Listas\bin\Debug\Introdução a Listas.exe
+C:\Users\User\Desktop\Documentos área de trabalho\Faculdade Jhoyan\2º Semestre\Algoritmos e Lógica de Programação II\Introdução a Listas\bin\Debug\Introdução a Listas.pdb
+C:\Users\User\Desktop\Documentos área de trabalho\Faculdade Jhoyan\2º Semestre\Algoritmos e Lógica de Programação II\Introdução a Listas\obj\Debug\Introdução a Listas.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Documentos área de trabalho\Faculdade Jhoyan\2º Semestre\Algoritmos e Lógica de Programação II\Introdução a Listas\obj\Debug\Introdução a Listas.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Documentos área de trabalho\Faculdade Jhoyan\2º Semestre\Algoritmos e Lógica de Programação II\Introdução a Listas\obj\Debug\Introdução a Listas.exe
+C:\Users\User\Desktop\Documentos área de trabalho\Faculdade Jhoyan\2º Semestre\Algoritmos e Lógica de Programação II\Introdução a Listas\obj\Debug\Introdução a Listas.pdb
