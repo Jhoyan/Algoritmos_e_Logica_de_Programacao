@@ -1,1 +1,1 @@
-# Algorítmos e Lógica de Programação
+# Algorithms and Programming Logic
